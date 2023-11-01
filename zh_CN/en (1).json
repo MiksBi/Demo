@@ -1,0 +1,21 @@
+{
+    "menu": {
+        "home": "家",
+        "about": "关于",
+        "privacy": "隐私政策"
+    },
+    "main": {
+        "welcome": "来自 Lokalise 的您好！",
+        "about": "关于我们",
+        "new_message": "没有消息 |一条消息 | {count}条消息",
+        "tms": "Lokalise 是一种 TMS",
+        "g2": "在 G2 上了解我们",
+        "get2know": "更好地了解 Lokalise",
+        "get2know_message": "我们的目标是通过提供自动化、集成和更好地管理翻译的工具来消除本地化的麻烦。 Lokalise 是成长型公司将其移动应用、游戏、软件或数字内容扩展到其他领域的更好方式\n多种语言。",
+        "sign-in": "使用 Google 登录",
+        "register-button": "登记"
+    },
+    "about": {
+        "welcome": "欢迎来到关于页面！"
+    }
+}
