@@ -1,0 +1,21 @@
+{
+    "menu": {
+        "home": "Startpagina",
+        "about": "Over",
+        "privacy": "Privacybeleid"
+    },
+    "main": {
+        "welcome": "Hallo van Lokalise!",
+        "about": "Over ons",
+        "new_message": "geen berichten | één bericht | {count} berichten",
+        "tms": "Lokalise is een TMS",
+        "g2": "Lees over ons op G2",
+        "get2know": "Leer Lokalise beter kennen",
+        "get2know_message": "Ons doel is om de moeite van lokalisatie te elimineren door tools te bieden om uw vertalingen te automatiseren, integreren en beter te beheren. Lokalise is een betere manier voor groei-georiënteerde bedrijven om hun mobiele apps, games, software of digitale inhoud uit te breiden naar meerdere talen.",
+        "sign-in": "Inloggen met Google",
+        "register-button": "Registreer hier"
+    },
+    "about": {
+        "welcome": "Welkom op de Over-pagina!"
+    }
+}
