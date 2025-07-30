@@ -1,11 +1,13 @@
 {
-    "Sign_Up": "Anmeldung",
+    "Better": "Besser",
+    "E-mail": "E-Mail",
+    "Sign_Up_to_Lokalise": "Bei Lokalise registrieren",
+    "Looking_to_join_an_existing_team_instead?_Log_In": "Möchten Sie stattdessen einem bestehenden Team beitreten? Einloggen",
     "Password": "Passwort",
-    "Full_name": "Vollständiger Name",
-    "E-mail": "Email",
-    "Log_In": "Einloggen",
-    "Or_sign_up_with_your_email": "Oder melden Sie sich mit Ihrer E-Mail an",
-    "Sign_Up_with_Google": "Melden Sie sich bei Google an",
-    "By_signing_up__you_accept_our_Terms_of_Service_and_Privacy_Policy.": "Durch die Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzrichtlinie <\/u> .",
-    "Looking_to_join_an_existing_team_instead?_Log_In": "Möchten Sie stattdessen einem bestehenden Team beitreten? Einloggen"
+    "Or_sign_up_with_your_email": "Oder melde dich mit deiner E-Mail ",
+    "Sign_Up": "Anmelden",
+    "Full_name": "Vollständiger Name test",
+    "Join_with_Google_account": "Mit Google-Konto beitreten",
+    "Log_In": "",
+    "By_signing_up__you_accept_our_Terms_of_Service_and_Privacy_Policy.": ""
 }
