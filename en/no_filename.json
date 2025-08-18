@@ -1,11 +1,15 @@
 {
-    "Sign_Up": "Sign Up",
-    "Password": "Password",
-    "Full_name": "Full name",
-    "E-mail": "E-mail",
-    "Log_In": "Log In",
-    "Or_sign_up_with_your_email": "Or sign up with your email ",
-    "Sign_Up_with_Google": "Sign Up with Google",
-    "By_signing_up__you_accept_our_Terms_of_Service_and_Privacy_Policy.": "By signing up, you accept our <u>Terms of Service<\/u> and <u>Privacy Policy<\/u>.",
-    "Looking_to_join_an_existing_team_instead?_Log_In": "Looking to join an existing team instead? Log In"
+    "Log_In_page_—_mobile.Log_In": "Log In",
+    "Group_843.Group_906.Sign_Up": "Sign Up",
+    "Log_In_page_—_mobile.Group_894.Group_905.Log_In_with_Google": "Log In with Google",
+    "Sign_Up_page_—_Mobile.E-mail": "E-mail",
+    "Log_In_page_—_mobile.Username": "Username",
+    "Sign_Up_page_—_Mobile.Sign_Up_to_Lokalise": "Sign Up to Lokalise",
+    "Sign_Up_page_—_Mobile.Looking_to_join_an_existing_team_instead?_Log_In": "Looking to join an existing team instead? Log In",
+    "Log_In_page_—_mobile.Password": "Password",
+    "Sign_Up_page_—_Mobile.Or_sign_up_with_your_email": "Or sign up with your email ",
+    "Sign_Up_page_—_Mobile.Full_name": "Full name",
+    "Sign_Up_page_—_Mobile.Group_894.Join_with_Google_account": "Join with Google account",
+    "Sign_Up_page_—_Mobile.By_signing_up__you_accept_our_Terms_of_Service_and_Privacy_Policy.": "By signing up, you accept our <u>Terms of Service<\/u> and <u>Privacy Policy<\/u>.",
+    "Log_In_page_—_mobile.Log_in_with_SSO": "Log in with SSO"
 }
