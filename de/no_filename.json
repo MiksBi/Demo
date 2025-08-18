@@ -1,11 +1,15 @@
 {
-    "Sign_Up": "Anmeldung",
-    "Password": "Passwort",
-    "Full_name": "Vollständiger Name",
-    "E-mail": "Email",
-    "Log_In": "Einloggen",
-    "Or_sign_up_with_your_email": "Oder melden Sie sich mit Ihrer E-Mail an",
-    "Sign_Up_with_Google": "Melden Sie sich bei Google an",
-    "By_signing_up__you_accept_our_Terms_of_Service_and_Privacy_Policy.": "Durch die Anmeldung akzeptieren Sie unsere <u> Nutzungsbedingungen <\/u> und <u> Datenschutzrichtlinie <\/u> .",
-    "Looking_to_join_an_existing_team_instead?_Log_In": "Möchten Sie stattdessen einem bestehenden Team beitreten? Einloggen"
+    "Log_In_page_—_mobile.Log_In": "Einloggen",
+    "Group_843.Group_906.Sign_Up": "Melden Sie sich an",
+    "Log_In_page_—_mobile.Group_894.Group_905.Log_In_with_Google": "Mit Google anmelden",
+    "Sign_Up_page_—_Mobile.E-mail": "E-Mail",
+    "Log_In_page_—_mobile.Username": "Benutzername test",
+    "Sign_Up_page_—_Mobile.Sign_Up_to_Lokalise": "Registrieren Sie sich bei Lokalise",
+    "Sign_Up_page_—_Mobile.Looking_to_join_an_existing_team_instead?_Log_In": "Möchten Sie stattdessen einem bestehenden Team beitreten? Anmelden",
+    "Log_In_page_—_mobile.Password": "Passwort",
+    "Sign_Up_page_—_Mobile.Or_sign_up_with_your_email": "Oder melden Sie sich mit Ihrer E-Mail an ",
+    "Sign_Up_page_—_Mobile.Full_name": "Vollständiger Name",
+    "Sign_Up_page_—_Mobile.Group_894.Join_with_Google_account": "Mit Google-Konto anmelden",
+    "Sign_Up_page_—_Mobile.By_signing_up__you_accept_our_Terms_of_Service_and_Privacy_Policy.": "Mit der Anmeldung akzeptieren Sie unsere <u> Servicebedingungen <\/u> und <u> Datenschutzrichtlinie <\/u>.",
+    "Log_In_page_—_mobile.Log_in_with_SSO": "Melden Sie sich mit SSO an we just updated"
 }
